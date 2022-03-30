@@ -1,0 +1,131 @@
+body {
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  height: 100vh;
+  background-color: #000000;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#root{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 632px;
+}
+
+.container-sm{
+  max-width: 60%;
+  background-color: #212121;
+  padding: 0ch;
+  border-radius: 0 0 7% 7%;
+}
+
+.info{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#profile-pic {
+  width: inherit;
+}
+
+.info-text{
+  padding-top: 1.5em;
+  text-align: center;
+}
+
+.info-text h3{
+  font-weight: 800;
+  color: white;
+}
+
+.info-text h4{
+  font-size: 1em;
+  color:orange;
+}
+
+.info-links{
+  display: flex;
+  justify-content: center;
+}
+
+.info-links a{
+  padding: 1em;
+}
+
+.info-links button{
+  height: 3em;
+  width:  8em;
+  border-radius: 6%;
+  font-weight: 500;
+}
+
+.info-links button img{
+  padding-right: 5%;
+}
+
+#email{
+  background-color: white;
+  border: 0ch;
+}
+
+#linkedin{
+  border: 0ch;
+  background-color: #0077b5;
+  color: white;
+}
+
+.about{
+  padding-top: 2em;
+  width: inherit;
+  color: white;
+}
+
+.about h3{
+  padding-left: 0.6rem;
+  font-weight: 700;
+}
+
+.about p{
+  padding: 0.6rem;
+}
+
+.interests{
+  padding-top: 2em;
+  width: inherit;
+  color: white;
+}
+
+.interests h3{
+  padding-left: 0.5rem;
+  font-weight: 700;
+}
+
+.interests p{
+  padding: 0.5rem;
+}
+
+.footer{
+  background-color: #121212;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 4.5rem;
+  border-radius: 0 0 7% 7%;
+}
+
+#github {
+  border: 0ch;
+  background-color: #424242;
+}
