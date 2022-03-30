@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Digital-Business-Card/static/css/main.854e5ae8.css",
+    "main.js": "/Digital-Business-Card/static/js/main.a2c1e784.js",
+    "static/js/787.3b1c7c19.chunk.js": "/Digital-Business-Card/static/js/787.3b1c7c19.chunk.js",
+    "static/media/Yanik.jpg": "/Digital-Business-Card/static/media/Yanik.894ec1aa35775a57ca7b.jpg",
+    "index.html": "/Digital-Business-Card/index.html",
+    "main.854e5ae8.css.map": "/Digital-Business-Card/static/css/main.854e5ae8.css.map",
+    "main.a2c1e784.js.map": "/Digital-Business-Card/static/js/main.a2c1e784.js.map",
+    "787.3b1c7c19.chunk.js.map": "/Digital-Business-Card/static/js/787.3b1c7c19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.854e5ae8.css",
+    "static/js/main.a2c1e784.js"
+  ]
+}
